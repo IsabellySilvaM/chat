@@ -48,4 +48,4 @@ O objetivo deste projeto é adicionar funcionalidades específicas em um aplicat
 
 ## Testando o APK
 
-- Link para o [APK]([https://expo.dev/accounts/isabellysilvam/projects/appchatIsa/builds/5f2941ef-9b10-4df5-b4de-e21be48f61c3](https://expo.dev/accounts/isabellysilvam/projects/appchatIsa/builds/5f2941ef-9b10-4df5-b4de-e21be48f61c3)). 
+- Link para o [APK](https://expo.dev/accounts/isabellysilvam/projects/appchatIsa/builds/5f2941ef-9b10-4df5-b4de-e21be48f61c3). 
