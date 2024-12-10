@@ -23,7 +23,7 @@
       "permissions": [
         "android.permission.RECORD_AUDIO"
       ],
-      "package": ""
+      "package": "com.isabellysilvam.appchatIsa"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -39,7 +39,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "aadc8ca3-d7fe-4d6b-8e61-30f32289f203"
       }
     }
   }

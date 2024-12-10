@@ -33,7 +33,7 @@ O propósito deste projeto é adicionar funcionalidades específicas em um aplic
 1. Clone este repositório:
 
    ```
-   git clone https://github.com
+   git clone https://github.com/IsabellySilvaM/chat.git
    ```
 
 2. Instale as dependências do projeto:
