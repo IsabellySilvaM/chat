@@ -1,16 +1,14 @@
-# Implementação de Funcionalidades no App de Mensagens
+## Objetivo
 
-## Propósito
+O objetivo deste projeto é adicionar funcionalidades específicas em um aplicativo de mensagens. A funcionalidade principal, **envio de imagens**, foi parcialmente implementada. Além disso, uma funcionalidade extra, **indicação de "usuário digitando" em tempo real**, foi incorporada para melhorar a experiência do usuário.
 
-O propósito deste projeto é adicionar funcionalidades específicas em um aplicativo de mensagens. A funcionalidade principal, **envio de imagens**, foi parcialmente implementada. Além disso, uma funcionalidade extra, **indicação de "usuário digitando" em tempo real**, foi incorporada para melhorar a experiência do usuário.
-
-### Tecnologias Empregadas
+### Tecnologias
 
 - **React Native** com Expo para desenvolvimento móvel.
 - **TailwindCSS** (via NativeWind) para estilização.
 - **Firebase** (Firestore e Storage) para backend.
 
-## Funcionalidades Desenvolvidas
+## Funcionalidades
 
 ### 1. Envio de Imagens (Funcionalidade Principal)
 
@@ -50,4 +48,4 @@ O propósito deste projeto é adicionar funcionalidades específicas em um aplic
 
 ## Testando o APK
 
-- Link para o [APK](). 
+- Link para o [APK](https://expo.dev/accounts/isabellysilvam/projects/appchatIsa/builds/5f2941ef-9b10-4df5-b4de-e21be48f61c3). 
